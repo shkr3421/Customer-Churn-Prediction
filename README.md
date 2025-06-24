@@ -33,6 +33,10 @@ A modern web application that predicts the likelihood of a customer churning bas
 ![User submit services given to him/her](https://github.com/user-attachments/assets/61197901-14e3-47f6-85b6-7d028affb796)
 ![churn rate predicted result](https://github.com/user-attachments/assets/e01fd511-c1f1-4473-8142-d5cce817e762)
 
+## 🌐 Live Demo
+
+[Click here to view the deployed site](https://customer-churn-prediction-nine.vercel.app)
+
 
 ## 🚀 Getting Started
 
